@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 63a201fa0d908764abf339b248bf7085
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - padrao: {fileID: 2100000, guid: 60a61e3f2d2b5f442b55039c59018752, type: 2}
+  - brilhando: {fileID: 2100000, guid: 60a61e3f2d2b5f442b55039c59018752, type: 2}
+  - passar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
